@@ -108,6 +108,15 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "lex",
+      "species": "lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "11"
     }
   ]
 }
